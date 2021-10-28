@@ -1,0 +1,59 @@
+{
+  "images" : [
+    {
+      "extent" : "full-screen",
+      "filename" : "depositphotos_271325426-stock-illustration-abstract-light-blue-blurred-vector copy 5.jpeg",
+      "idiom" : "iphone",
+      "minimum-system-version" : "8.0",
+      "orientation" : "portrait",
+      "scale" : "3x",
+      "subtype" : "736h"
+    },
+    {
+      "extent" : "full-screen",
+      "filename" : "depositphotos_271325426-stock-illustration-abstract-light-blue-blurred-vector copy 6.jpeg",
+      "idiom" : "iphone",
+      "minimum-system-version" : "8.0",
+      "orientation" : "portrait",
+      "scale" : "2x",
+      "subtype" : "667h"
+    },
+    {
+      "extent" : "full-screen",
+      "filename" : "depositphotos_271325426-stock-illustration-abstract-light-blue-blurred-vector copy 7.jpeg",
+      "idiom" : "iphone",
+      "minimum-system-version" : "7.0",
+      "orientation" : "portrait",
+      "scale" : "2x"
+    },
+    {
+      "extent" : "full-screen",
+      "filename" : "depositphotos_271325426-stock-illustration-abstract-light-blue-blurred-vector copy 8.jpeg",
+      "idiom" : "iphone",
+      "minimum-system-version" : "7.0",
+      "orientation" : "portrait",
+      "scale" : "2x",
+      "subtype" : "retina4"
+    },
+    {
+      "extent" : "full-screen",
+      "filename" : "depositphotos_271325426-stock-illustration-abstract-light-blue-blurred-vector copy 9.jpeg",
+      "idiom" : "ipad",
+      "minimum-system-version" : "7.0",
+      "orientation" : "portrait",
+      "scale" : "1x"
+    },
+    {
+      "extent" : "full-screen",
+      "filename" : "depositphotos_271325426-stock-illustration-abstract-light-blue-blurred-vector copy 10.jpeg",
+      "idiom" : "ipad",
+      "minimum-system-version" : "7.0",
+      "orientation" : "portrait",
+      "scale" : "2x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

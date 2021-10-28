@@ -1,0 +1,18 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4F171D8B49A22163D1615AC5C24E487FB292FF88",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "4F171D8B49A22163D1615AC5C24E487FB292FF88" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "KidsDrawingApp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "KidsDrawingApp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/sandip8889\/kidsdrawingapp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4F171D8B49A22163D1615AC5C24E487FB292FF88"
+    }
+  ]
+}

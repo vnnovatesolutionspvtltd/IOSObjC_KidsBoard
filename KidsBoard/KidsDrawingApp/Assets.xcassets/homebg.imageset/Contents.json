@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "depositphotos_271325426-stock-illustration-abstract-light-blue-blurred-vector copy 2.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "depositphotos_271325426-stock-illustration-abstract-light-blue-blurred-vector copy 3.jpeg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "depositphotos_271325426-stock-illustration-abstract-light-blue-blurred-vector copy 4.jpeg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
